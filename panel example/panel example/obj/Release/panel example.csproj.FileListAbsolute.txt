@@ -1,0 +1,9 @@
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\bin\Release\panel example.exe.config
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\bin\Release\panel example.exe
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\bin\Release\panel example.pdb
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel_example.Form1.resources
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel_example.Properties.Resources.resources
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel example.csproj.GenerateResource.cache
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel example.csproj.CoreCompileInputs.cache
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel example.exe
+C:\Users\qxybu\Desktop\Github Projects\C# winform\panel example\panel example\obj\Release\panel example.pdb
